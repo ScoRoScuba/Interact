@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractMerge", "InteractMerge\InteractMerge.csproj", "{5538F802-F2E7-4EE8-BD05-0491591B9913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractMergeEngine", "InteractMergeEngine\InteractMergeEngine.csproj", "{755BD32B-6EAC-4C0D-8CD0-2025224D443B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5538F802-F2E7-4EE8-BD05-0491591B9913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5538F802-F2E7-4EE8-BD05-0491591B9913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5538F802-F2E7-4EE8-BD05-0491591B9913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5538F802-F2E7-4EE8-BD05-0491591B9913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755BD32B-6EAC-4C0D-8CD0-2025224D443B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755BD32B-6EAC-4C0D-8CD0-2025224D443B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755BD32B-6EAC-4C0D-8CD0-2025224D443B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755BD32B-6EAC-4C0D-8CD0-2025224D443B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6BFA71D-2424-4808-9D13-E22DD619F135}
+	EndGlobalSection
+EndGlobal

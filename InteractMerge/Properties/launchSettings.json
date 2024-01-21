@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InteractMerge": {
+      "commandName": "Project",
+      "commandLineArgs": "-i F:\\Development\\Interact\\TechnicalChallange\\TestData\\large_file_1.csv,F:\\Development\\Interact\\TechnicalChallange\\TestData\\large_file_2.csv,F:\\Development\\Interact\\TechnicalChallange\\TestData\\large_file_3.csv,F:\\Development\\Interact\\TechnicalChallange\\TestData\\large_file_4.csv,F:\\Development\\Interact\\TechnicalChallange\\TestData\\large_file_5.csv      -o large_merged_files_result.csv"
+    }
+  }
+}
